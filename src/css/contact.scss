@@ -1,0 +1,38 @@
+.contactEmail {
+    text-align: center;
+    padding: 10px;
+}
+
+form {
+    border: 3px solid black;
+    margin: 30px;
+}
+.contactForm {
+
+    input[type=text]:required:hover {
+        background: lightcoral;
+    }
+    
+    input[type=text] {
+        width: 150px;
+        padding: 3px 3px;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        transition: ease 1s; 
+    }
+}
+
+.contactExtras {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    textarea {
+        border: 2px solid #ccc;
+        border-radius: 4px;
+        background-color: #f8f8f8;
+        resize: none;
+    }
+}
+

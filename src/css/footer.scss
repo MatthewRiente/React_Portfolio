@@ -1,0 +1,24 @@
+footer {
+    display: block;
+    background-color: #404040;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    color: #ffffff;
+    width: 100%;
+
+    a {
+        color: white;
+    }
+
+    .linked-icon {
+        position: inherit;
+        height: 35px;
+        width: 40px;
+        left: 20%;
+    }
+    
+    .r2h-icon {
+        width: 100px;
+        height: 50;
+    }
+}

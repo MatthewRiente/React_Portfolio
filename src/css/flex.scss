@@ -1,0 +1,102 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+    a {
+        position: relative;
+        box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+        background-color: #f1f1f1;
+        text-align: center;
+        font-size: 30px;
+        border: black solid 3px;
+        margin: 50px 25px;
+        min-width: 275px;
+        height: 400px;
+        transition: all .25s;
+
+        &:hover {
+            transform: scale(1.1);
+        }
+    }
+
+    .blocks {
+        display: block;
+        position: relative;
+        height: 10%;
+        padding: 5px 0;
+        border-bottom: black solid 3px;
+        background-color: #888888;
+        color: #ffffff;
+        text-align: center;
+
+        .contactForm {
+            position: relative;
+            width: 100%;
+            text-align: center;
+            margin: 0;
+            padding: 10px;
+        }
+    }
+
+    .blockImg__one {
+        margin: 0;
+        padding: 0;
+        background-position: center;
+        background-size: cover;
+        background-image: url(./images/free-perspective-website-mockup.png);
+        width: 100%;
+        height: 358px;
+    }
+    
+    .blockImg__two {
+        margin: 0;
+        padding: 0;
+        background-position: center;
+        background-size: cover;
+        background-image: url(./images/book.jpeg);
+        width: 100%;
+        height: 358px;
+    }
+    
+    .blockImg__three {
+        margin: 0;
+        padding: 0;
+        background-position: center;
+        background-size: cover;
+        background-image: url(./images/office-guy-typing-keyboard-89039802.jpg);
+        width: 100%;
+        height: 358px;
+    }
+    .blockImg__four {
+        margin: 0;
+        padding: 0;
+        background-position: center;
+        background-size: cover;
+        background-image: url(./images/write-a-resume.jpg);
+        width: 100%;
+        height: 358px;
+    }
+    
+    .blockImg__five {
+        margin: 0;
+        padding: 0;
+        background-position: center;
+        background-size: cover;
+        background-image: url(./images/github1.png);
+        width: 100%;
+        height: 358px;
+    }
+    
+    .blockImg__six {
+        margin: 0;
+        padding: 0;
+        background-position: center;
+        background-size: cover;
+        background-image: url(./images/github2.png);
+        width: 100%;
+        height: 358px;
+    }
+}
+
