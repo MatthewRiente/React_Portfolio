@@ -22,7 +22,7 @@ export default class Contact extends Component{
             <section>
                 <div className="flex-container">
                     <form name="myForm" onSubmit={(e) => this.validateForm(e)} action="#" method="get" className="form">
-                        <div className="blocks">
+                        <div className="contactBlock">
                             <div className="contactForm">
                                 <div>
                                     <label for="firstName"> First Name: </label> 

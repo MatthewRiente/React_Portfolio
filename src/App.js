@@ -10,7 +10,7 @@ import PastWorks from './PastWorks';
 import Resume from './Resume';
 import { Switch, Route } from 'react-router-dom';
 import './css/reset.css';
-import './css/index.css';
+import './css/index.scss';
 
 export default class App extends Component {
   render() {
