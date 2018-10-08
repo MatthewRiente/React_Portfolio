@@ -9,12 +9,16 @@ export default class About extends Component {
             <nav class="flex-container">
                 <Link to='/Bio'>
                     <div>
-                        <p class="blocks">Biography</p>
+                        <p className="blocks">Biography</p>
+                        <div className="blockImg__seven"> 
+                        </div>
                     </div>
                 </Link>
-                <Link to='/Bio'>
+                <Link to='/Gallery'>
                     <div>
-                        <p class="blocks">Gallery</p>
+                        <p className="blocks">Gallery</p>
+                        <div className="blockImg__eight"> 
+                        </div>
                     </div>
                 </Link>
             </nav>

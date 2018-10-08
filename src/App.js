@@ -8,6 +8,7 @@ import Contact from './Contact';
 import Gallery from './Gallery';
 import PastWorks from './PastWorks';
 import Resume from './Resume';
+import Aux from './Aux';
 import { Switch, Route } from 'react-router-dom';
 import './css/reset.css';
 import './css/index.scss';
@@ -15,7 +16,7 @@ import './css/index.scss';
 export default class App extends Component {
   render() {
     return (
-      <div>
+      <Aux>
           <header>
               <Header />
           </header>
@@ -33,7 +34,7 @@ export default class App extends Component {
           <footer>
               <Footer />
           </footer>
-      </div>
+      </Aux>
     );
   }
 }
