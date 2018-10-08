@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "93f3af0f26675bc575729d2a4f7893e0",
-    "url": "/React_Portfolio/static/media/gallery2.93f3af0f.jpg"
+    "revision": "a7dbeea69a7417d095b52881d8845796",
+    "url": "/React_Portfolio/static/media/avatar.a7dbeea6.jpg"
   },
   {
-    "revision": "916e648bfaf45cdcf045",
-    "url": "/React_Portfolio/static/css/main.e6649b1b.chunk.css"
+    "revision": "149dc52566e47a520776",
+    "url": "/React_Portfolio/static/css/main.13a9d387.chunk.css"
   },
   {
-    "revision": "a3dcc3f146a1c1aaf22e",
-    "url": "/React_Portfolio/static/js/1.a3dcc3f1.chunk.js"
+    "revision": "9dddcd09788890999fa3",
+    "url": "/React_Portfolio/static/js/1.9dddcd09.chunk.js"
   },
   {
     "revision": "0b3b1d1736f2c5113254",
@@ -20,20 +20,28 @@ self.__precacheManifest = [
     "url": "/React_Portfolio/static/media/office-guy-typing-keyboard-89039802.9358a72d.jpg"
   },
   {
-    "revision": "b093f787dca3abecd263f8582323ed71",
-    "url": "/React_Portfolio/static/media/write-a-resume.b093f787.jpg"
-  },
-  {
     "revision": "e5ec710a2f247ef36ea10cdce5033284",
     "url": "/React_Portfolio/static/media/free-perspective-website-mockup.e5ec710a.png"
+  },
+  {
+    "revision": "b093f787dca3abecd263f8582323ed71",
+    "url": "/React_Portfolio/static/media/write-a-resume.b093f787.jpg"
   },
   {
     "revision": "6c4003de93671dbd07b8240dc86b4058",
     "url": "/React_Portfolio/static/media/github1.6c4003de.png"
   },
   {
+    "revision": "aeb7891214bf536f57fbfd5789f839f2",
+    "url": "/React_Portfolio/static/media/bio.aeb78912.jpg"
+  },
+  {
     "revision": "db8b8f1ffae6ac4c71a40f458b5c4432",
     "url": "/React_Portfolio/static/media/github2.db8b8f1f.png"
+  },
+  {
+    "revision": "6c5d16ade70d9400f2ad08500216c726",
+    "url": "/React_Portfolio/static/media/gallery.6c5d16ad.jpeg"
   },
   {
     "revision": "1cde0ffa906875f463dab29535be053e",
@@ -44,12 +52,16 @@ self.__precacheManifest = [
     "url": "/React_Portfolio/static/media/full-home-icon.87316fc2.png"
   },
   {
+    "revision": "149dc52566e47a520776",
+    "url": "/React_Portfolio/static/js/main.149dc525.chunk.js"
+  },
+  {
     "revision": "7eb7c0fa914fe58d22ee6767427f62fc",
     "url": "/React_Portfolio/static/media/gallery1.7eb7c0fa.jpg"
   },
   {
-    "revision": "916e648bfaf45cdcf045",
-    "url": "/React_Portfolio/static/js/main.916e648b.chunk.js"
+    "revision": "93f3af0f26675bc575729d2a4f7893e0",
+    "url": "/React_Portfolio/static/media/gallery2.93f3af0f.jpg"
   },
   {
     "revision": "550a29c89593943bad8e4ab77a871c68",
@@ -92,7 +104,7 @@ self.__precacheManifest = [
     "url": "/React_Portfolio/static/media/gallery12.b94bfa23.jpg"
   },
   {
-    "revision": "e2b94ce04f8fc8f1348dc2f3b2a04221",
+    "revision": "41df50c9f79c860550eab27ae84d6038",
     "url": "/React_Portfolio/index.html"
   }
 ];
