@@ -16,14 +16,6 @@ self.__precacheManifest = [
     "url": "/React_Portfolio/static/js/runtime~main.0b3b1d17.js"
   },
   {
-    "revision": "9358a72d9a73c659bad33536f9fa1569",
-    "url": "/React_Portfolio/static/media/office-guy-typing-keyboard-89039802.9358a72d.jpg"
-  },
-  {
-    "revision": "6c4003de93671dbd07b8240dc86b4058",
-    "url": "/React_Portfolio/static/media/github1.6c4003de.png"
-  },
-  {
     "revision": "e5ec710a2f247ef36ea10cdce5033284",
     "url": "/React_Portfolio/static/media/free-perspective-website-mockup.e5ec710a.png"
   },
@@ -32,16 +24,24 @@ self.__precacheManifest = [
     "url": "/React_Portfolio/static/media/write-a-resume.b093f787.jpg"
   },
   {
+    "revision": "9358a72d9a73c659bad33536f9fa1569",
+    "url": "/React_Portfolio/static/media/office-guy-typing-keyboard-89039802.9358a72d.jpg"
+  },
+  {
+    "revision": "6c4003de93671dbd07b8240dc86b4058",
+    "url": "/React_Portfolio/static/media/github1.6c4003de.png"
+  },
+  {
     "revision": "aeb7891214bf536f57fbfd5789f839f2",
     "url": "/React_Portfolio/static/media/bio.aeb78912.jpg"
   },
   {
-    "revision": "6c5d16ade70d9400f2ad08500216c726",
-    "url": "/React_Portfolio/static/media/gallery.6c5d16ad.jpeg"
-  },
-  {
     "revision": "db8b8f1ffae6ac4c71a40f458b5c4432",
     "url": "/React_Portfolio/static/media/github2.db8b8f1f.png"
+  },
+  {
+    "revision": "6c5d16ade70d9400f2ad08500216c726",
+    "url": "/React_Portfolio/static/media/gallery.6c5d16ad.jpeg"
   },
   {
     "revision": "1cde0ffa906875f463dab29535be053e",
