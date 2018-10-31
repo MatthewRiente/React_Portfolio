@@ -65,14 +65,13 @@
         }
     
         .blockImg__one {
-            position: relative;
             margin: 0;
             padding: 0;
             background-position: center;
             background-size: cover;
-            background-image: url(./images/free-perspective-website-mockup.png);
             width: 100%;
             height: 358px;
+            background-image: url(./images/free-perspective-website-mockup.png);
         }
         
         .blockImg__two {
@@ -107,9 +106,10 @@
         .blockImg__five {
             margin: 0;
             padding: 0;
+            background-repeat: no-repeat;
             background-position: center;
-            background-size: cover;
-            background-image: url(./images/github1.png);
+            background-size: 300px 375px;
+            background-image: url(./images/JStairs.png);
             width: 100%;
             height: 358px;
         }
@@ -118,8 +118,8 @@
             margin: 0;
             padding: 0;
             background-position: center;
-            background-size: cover;
-            background-image: url(./images/github2.png);
+            background-size: 300px 360px;
+            background-image: url(./images/mymove.png);
             width: 100%;
             height: 358px;
         }
@@ -142,6 +142,16 @@
             background-position: center;
             background-size: cover;
             background-image: url(./images/gallery.jpeg);
+            width: 100%;
+            height: 358px;
+        }
+
+        .blockImg__nine {
+            margin: 0;
+            padding: 0;
+            background-position: center;
+            background-size: 275px 360px;
+            background-image: url(./images/ant.png);
             width: 100%;
             height: 358px;
         }

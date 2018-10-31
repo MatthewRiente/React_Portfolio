@@ -1,3 +1,3 @@
 module.exports = function Aux (props) {
-    return props.children;
-  };
+  return props.children;
+};

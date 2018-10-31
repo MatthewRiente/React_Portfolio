@@ -17,11 +17,11 @@ export default class Gallery extends Component {
         return (
             <section className="gallery-container">
                 <div>
-                    <img src={gallery1} alt="he Blue Ridge mountians"/>
+                    <img src={gallery1} alt="The Blue Ridge mountians"/>
                     <p>The Blue Ridge mountians.</p>            
                 </div>
                 <div>
-                    <img src={gallery2} alt="he Epcott ball at night"/>
+                    <img src={gallery2} alt="The Epcott ball at night"/>
                     <p>The Epcott ball at night.</p>
                 </div>
                 <div>

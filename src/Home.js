@@ -8,8 +8,7 @@ export default class Home extends Component {
             <nav className="flex-container">
                 <Link to="/PastWorks">
                         <p className="blocks">Past Works</p>
-                        <div className="blockImg__one"> 
-                        </div>
+                        <div className="blockImg__one"> </div>
                 </Link>  
                 <Link to='/About'>
                     <div>

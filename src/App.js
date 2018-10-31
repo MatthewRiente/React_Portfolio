@@ -17,23 +17,19 @@ export default class App extends Component {
   render() {
     return (
       <Aux>
-          <header>
-              <Header />
-          </header>
-          <main>
-              <Switch>
-                  <Route exact path='/' component={Home} />
-                  <Route path='/PastWorks' component={PastWorks} />
-                  <Route path='/About' component={About}/>
-                  <Route path='/Bio' component={Bio} />
-                  <Route path='/Gallery' component={Gallery} />
-                  <Route exact path='/Resume' component={Resume} />
-                  <Route exact path='/Contact' component={Contact} />
-              </Switch>
-          </main>
-          <footer>
-              <Footer />
-          </footer>
+        <Header />
+        <main>
+            <Switch>
+                <Route exact path='/' component={Home} />
+                <Route path='/PastWorks' component={PastWorks} />
+                <Route path='/About' component={About}/>
+                <Route path='/Bio' component={Bio} />
+                <Route path='/Gallery' component={Gallery} />
+                <Route exact path='/Resume' component={Resume} />
+                <Route exact path='/Contact' component={Contact} />
+            </Switch>
+        </main>
+        <Footer />
       </Aux>
     );
   }

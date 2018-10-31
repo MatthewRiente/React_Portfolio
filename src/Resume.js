@@ -12,7 +12,6 @@ export default class Resume extends Component {
                     <div className="headerContact">
                         <p><strong>Phone #:</strong> 704 618-1312</p>
                         <p><strong>Email:</strong> mjriente@gmail.com</p>
-                        <p><strong>Mailing Address:</strong> 14134 Whistling Duck Ct</p>
                     </div>
                 </div>
                 <div className="resuBody">

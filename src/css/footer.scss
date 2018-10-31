@@ -1,24 +1,44 @@
-footer {
-    display: block;
+.footer {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
     background-color: #404040;
     text-align: center;
     padding: 10px 0px 10px 0px;
     color: #ffffff;
-    width: 100%;
+    width: 100vw;
+    height: 100px;
 
-    a {
-        color: white;
+    p {
+        font-size: 24px;
+        padding-bottom: 10px;
     }
 
-    .linked-icon {
-        position: inherit;
-        height: 35px;
-        width: 40px;
-        left: 20%;
-    }
-    
-    .r2h-icon {
-        width: 100px;
-        height: 50;
+    &--links {
+        justify-content: flex-start;
+        align-content: center;
+        width: 100%;
+
+        a {
+            color: white;
+            padding: 0px 20px;
+            padding-top: 20px;
+
+            .linked-icon {
+                position: relative;
+                top: 10px;
+                height: 45px;
+                width: 50px;
+                left: 20px;
+            }
+            
+            .r2h-icon {
+                width: 110px;
+                padding-top: 5px;
+                height: 20px;
+            }
+        }
+
     }
 }

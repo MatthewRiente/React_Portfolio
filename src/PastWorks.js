@@ -5,18 +5,22 @@ export default class PastWorks extends Component {
         return (    
             <div>
                 <div class="flex-container">
-                    <a href="https://github.com/MatthewRiente">
+                    <a href="https://codepen.io/Catsies/pen/yqrdjM">
                         <div>
-                            <p class="blocks">Github Portfilio</p>
-                            <div class="blockImg__five"> 
-                            </div>
+                            <p class="blocks">Stair Challenge</p>
+                            <div class="blockImg__five"> </div>
                         </div>
                     </a>
-                    <a href="https://github.com/Code2Hire/submit-weekly-challenges-MatthewRiente">
+                    <a href="https://mjrmidterm.netlify.com">
                         <div>
-                            <p class="blocks">Git Challenges</p>
-                            <div class="blockImg__six"> 
-                            </div>
+                            <p class="blocks">My Move Project</p>
+                            <div class="blockImg__six"> </div>
+                        </div>
+                    </a>
+                    <a href="https://thingsforants.netlify.com/">
+                        <div>
+                            <p class="blocks">One Day Website</p>
+                            <div class="blockImg__nine"> </div>
                         </div>
                     </a>
                 </div>

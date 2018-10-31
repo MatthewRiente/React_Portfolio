@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class Contact extends Component{
 
     validateForm(e) {
-        e.preventDefault();
+        // e.preventDefault();
         let fname = document.getElementById("firstName").value;
         let lname = document.getElementById("lastName").value;
         let email = document.getElementById("email").value;
