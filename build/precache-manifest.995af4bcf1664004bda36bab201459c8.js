@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/avatar.a7dbeea6.jpg"
   },
   {
-    "revision": "fe615f774b31847addd8",
-    "url": "/static/css/main.68bc1480.chunk.css"
+    "revision": "57fa8dec7d834c11e271",
+    "url": "/static/css/main.e4ccd432.chunk.css"
   },
   {
     "revision": "9dddcd09788890999fa3",
@@ -20,40 +20,44 @@ self.__precacheManifest = [
     "url": "/static/media/office-guy-typing-keyboard-89039802.9358a72d.jpg"
   },
   {
-    "revision": "e5ec710a2f247ef36ea10cdce5033284",
-    "url": "/static/media/free-perspective-website-mockup.e5ec710a.png"
-  },
-  {
-    "revision": "db8b8f1ffae6ac4c71a40f458b5c4432",
-    "url": "/static/media/github2.db8b8f1f.png"
-  },
-  {
     "revision": "b093f787dca3abecd263f8582323ed71",
     "url": "/static/media/write-a-resume.b093f787.jpg"
   },
   {
-    "revision": "6c4003de93671dbd07b8240dc86b4058",
-    "url": "/static/media/github1.6c4003de.png"
+    "revision": "353a5c1edb30d90060a1cc6c7e5b6f9e",
+    "url": "/static/media/JStairs.353a5c1e.png"
   },
   {
-    "revision": "1cde0ffa906875f463dab29535be053e",
-    "url": "/static/media/cityscape.1cde0ffa.png"
-  },
-  {
-    "revision": "aeb7891214bf536f57fbfd5789f839f2",
-    "url": "/static/media/bio.aeb78912.jpg"
+    "revision": "e5ec710a2f247ef36ea10cdce5033284",
+    "url": "/static/media/free-perspective-website-mockup.e5ec710a.png"
   },
   {
     "revision": "6c5d16ade70d9400f2ad08500216c726",
     "url": "/static/media/gallery.6c5d16ad.jpeg"
   },
   {
+    "revision": "aeb7891214bf536f57fbfd5789f839f2",
+    "url": "/static/media/bio.aeb78912.jpg"
+  },
+  {
+    "revision": "21790d4d4ad3173556e9f64dd0a50e3f",
+    "url": "/static/media/mymove.21790d4d.png"
+  },
+  {
+    "revision": "1cde0ffa906875f463dab29535be053e",
+    "url": "/static/media/cityscape.1cde0ffa.png"
+  },
+  {
+    "revision": "6de99817e59e401ce7903b9032a95783",
+    "url": "/static/media/ant.6de99817.png"
+  },
+  {
     "revision": "87316fc23b8db65750145f5a2c4b648c",
     "url": "/static/media/full-home-icon.87316fc2.png"
   },
   {
-    "revision": "fe615f774b31847addd8",
-    "url": "/static/js/main.fe615f77.chunk.js"
+    "revision": "57fa8dec7d834c11e271",
+    "url": "/static/js/main.57fa8dec.chunk.js"
   },
   {
     "revision": "7eb7c0fa914fe58d22ee6767427f62fc",
@@ -104,7 +108,7 @@ self.__precacheManifest = [
     "url": "/static/media/gallery12.b94bfa23.jpg"
   },
   {
-    "revision": "9bb2181c0eb96b45c6a715b8269d5246",
+    "revision": "30b446f3a8a8d4119fbf08f5d7a19f5e",
     "url": "/index.html"
   }
 ];

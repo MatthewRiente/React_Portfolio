@@ -5,19 +5,19 @@ export default class PastWorks extends Component {
         return (    
             <div>
                 <div class="flex-container">
-                    <a href="https://codepen.io/Catsies/pen/yqrdjM">
+                    <a href="https://codepen.io/Catsies/pen/yqrdjM" target="_blank" rel="noopener noreferrer">
                         <div>
                             <p class="blocks">Stair Challenge</p>
                             <div class="blockImg__five"> </div>
                         </div>
                     </a>
-                    <a href="https://mjrmidterm.netlify.com">
+                    <a href="https://mjrmidterm.netlify.com" target="_blank" rel="noopener noreferrer">
                         <div>
                             <p class="blocks">My Move Project</p>
                             <div class="blockImg__six"> </div>
                         </div>
                     </a>
-                    <a href="https://thingsforants.netlify.com/">
+                    <a href="https://thingsforants.netlify.com/" target="_blank" rel="noopener noreferrer">
                         <div>
                             <p class="blocks">One Day Website</p>
                             <div class="blockImg__nine"> </div>

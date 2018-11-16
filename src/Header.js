@@ -20,7 +20,7 @@ export default class Header extends Component {
                                 <li><Link to='/Contact'>Contact</Link></li>                    
                                 <li><Link to='/Gallery'>Gallery</Link></li>                    
                                 <li><Link to='/Bio'> Biography </Link></li>                            
-                                <li><Link to='/Resume'>Resume</Link></li>
+                                <li><Link to='/Resume'>Resumé</Link></li>
                             </ul>                    
                         </nav>
                     </div>
